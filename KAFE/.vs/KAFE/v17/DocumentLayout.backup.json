@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\HTML_ASPWEB\\KAFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B493F4C0-921B-4E4F-B060-D33848D9239D}|KAFE.csproj|c:\\users\\pc\\desktop\\html_aspweb\\kafe\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B493F4C0-921B-4E4F-B060-D33848D9239D}|KAFE.csproj|solutionrelative:anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anasayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HTML_ASPWEB\\KAFE\\Anasayfa.aspx",
+              "RelativeDocumentMoniker": "Anasayfa.aspx",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HTML_ASPWEB\\KAFE\\Anasayfa.aspx",
+              "RelativeToolTip": "Anasayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-10T11:23:43.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
